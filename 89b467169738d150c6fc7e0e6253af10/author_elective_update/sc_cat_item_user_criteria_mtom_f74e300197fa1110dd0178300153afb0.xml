@@ -41,13 +41,14 @@
         <update_guid_history>3f4e3001b2fa1110b2e1bc20642b7ab3:249930225</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Fleet Management Vehicle On Road History.Any User">718e340197fa1110dd0178300153af88</sys_audit_delete>
+        <sys_audit_delete display_value="">718e340197fa1110dd0178300153af88</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-25 15:54:00</sys_created_on>
         <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
         <sys_id>300a06aa081d44a8930462523570a844</sys_id>
         <sys_metadata>f74e300197fa1110dd0178300153afb0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Fleet Management Vehicle On Road History.Any User</sys_name>
         <sys_package display_value="Fleet Vehicle Management" source="x_snc_flt_mgmt">89b467169738d150c6fc7e0e6253af10</sys_package>
         <sys_parent/>
@@ -56,5 +57,7 @@
         <sys_scope_delete display_value="">103cf2a4751b4197883305011e105169</sys_scope_delete>
         <sys_update_name>sc_cat_item_user_criteria_mtom_f74e300197fa1110dd0178300153afb0</sys_update_name>
         <sys_update_version display_value="sc_cat_item_user_criteria_mtom_f74e300197fa1110dd0178300153afb0">b74e300197fa1110dd0178300153afb4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-29 13:25:11</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

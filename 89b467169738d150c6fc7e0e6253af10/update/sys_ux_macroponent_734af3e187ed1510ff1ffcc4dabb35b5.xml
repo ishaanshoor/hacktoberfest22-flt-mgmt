@@ -617,7 +617,9 @@
   "inputValues" : { },
   "readEvaluationMode" : "EXPLICIT"
 } ]</data>
+        <description/>
         <dispatched_events>243bc43187215510ff1ffcc4dabb3519</dispatched_events>
+        <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
         <handled_events>4e6bb0f187a15510ff1ffcc4dabb3529</handled_events>
         <interactions/>
@@ -678,6 +680,7 @@
 }</layout>
         <macroponent_dependencies/>
         <name>Viewports</name>
+        <output_prop_mapping/>
         <props>[ {
   "name" : "vehicleSysId",
   "label" : "vehicleSysId",
