@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Part)">c74200cbdbf29590c4ebc5860596190d</button>
+        <item_parameter display_value="Part number">c74200cbdbf29590c4ebc58605961908</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-31 16:38:42</sys_created_on>
+        <sys_id>874200cbdbf29590c4ebc5860596192d</sys_id>
+        <sys_name>c74200cbdbf29590c4ebc58605961908</sys_name>
+        <sys_package display_value="Fleet Vehicle Management" source="x_snc_flt_mgmt">89b467169738d150c6fc7e0e6253af10</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Vehicle Management">89b467169738d150c6fc7e0e6253af10</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_874200cbdbf29590c4ebc5860596192d</sys_update_name>
+        <ui_parameter display_value="Number">074200cbdbf29590c4ebc5860596190f</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

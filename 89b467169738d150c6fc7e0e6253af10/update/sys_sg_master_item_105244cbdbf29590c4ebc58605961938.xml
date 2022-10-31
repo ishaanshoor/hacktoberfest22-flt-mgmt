@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_snc_flt_mgmt_model</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Model Form Screen">d05244cbdbf29590c4ebc58605961928</embedded_screen>
+        <item_view/>
+        <name>Model Form Screen Master Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-31 16:38:47</sys_created_on>
+        <sys_id>105244cbdbf29590c4ebc58605961938</sys_id>
+        <sys_name>Model Form Screen Master Item</sys_name>
+        <sys_package display_value="Fleet Vehicle Management" source="x_snc_flt_mgmt">89b467169738d150c6fc7e0e6253af10</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Vehicle Management">89b467169738d150c6fc7e0e6253af10</sys_scope>
+        <sys_update_name>sys_sg_master_item_105244cbdbf29590c4ebc58605961938</sys_update_name>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Model List Screen View Config">445204cbdbf29590c4ebc586059619a2</view_config>
+    </sys_sg_master_item>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>company</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>70</order>
+        <record_id_field/>
+        <screen display_value="Details">5b4240cbdbf29590c4ebc58605961901</screen>
+        <screen_data_item_table>x_snc_flt_mgmt_maint_req</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-31 16:38:43</sys_created_on>
+        <sys_id>5b4240cbdbf29590c4ebc5860596198d</sys_id>
+        <sys_name>company</sys_name>
+        <sys_package display_value="Fleet Vehicle Management" source="x_snc_flt_mgmt">89b467169738d150c6fc7e0e6253af10</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Vehicle Management">89b467169738d150c6fc7e0e6253af10</sys_scope>
+        <sys_update_name>sys_sg_screen_field_5b4240cbdbf29590c4ebc5860596198d</sys_update_name>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_translated_text action="delete_multiple" query="documentkey=5b4240cbdbf29590c4ebc5860596198d"/>
+</record_update>

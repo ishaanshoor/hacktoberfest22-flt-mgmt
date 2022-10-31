@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Fleet Vehicle Management">92424c8bdbf29590c4ebc58605961989</applet_launcher>
+        <icon display_value="File">82424c8bdbf29590c4ebc58605961931</icon>
+        <label>Fleet Vehicle Management</label>
+        <roles/>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-31 16:38:38</sys_created_on>
+        <sys_id>da424c8bdbf29590c4ebc58605961989</sys_id>
+        <sys_name>Fleet Vehicle Management</sys_name>
+        <sys_package display_value="Fleet Vehicle Management" source="x_snc_flt_mgmt">89b467169738d150c6fc7e0e6253af10</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Vehicle Management">89b467169738d150c6fc7e0e6253af10</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_da424c8bdbf29590c4ebc58605961989</sys_update_name>
+    </sys_sg_applet_launcher_tab>
+</record_update>

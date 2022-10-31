@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_activity_stream_screen">
+    <sys_sg_activity_stream_screen action="INSERT_OR_UPDATE">
+        <add_additional_comment_button>true</add_additional_comment_button>
+        <add_attachment_button>true</add_attachment_button>
+        <add_work_note_button>true</add_work_note_button>
+        <available_offline>false</available_offline>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-List1">7742c0cbdbf29590c4ebc58605961904</icon>
+        <name>Activity Stream</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_activity_stream_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-31 16:38:45</sys_created_on>
+        <sys_id>3b42c0cbdbf29590c4ebc58605961945</sys_id>
+        <sys_name>Activity Stream</sys_name>
+        <sys_package display_value="Fleet Vehicle Management" source="x_snc_flt_mgmt">89b467169738d150c6fc7e0e6253af10</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Vehicle Management">89b467169738d150c6fc7e0e6253af10</sys_scope>
+        <sys_update_name>sys_sg_activity_stream_screen_3b42c0cbdbf29590c4ebc58605961945</sys_update_name>
+        <table>x_snc_flt_mgmt_maint_task</table>
+    </sys_sg_activity_stream_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=3b42c0cbdbf29590c4ebc58605961945"/>
+</record_update>

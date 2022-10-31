@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <alert/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-List1">7742c0cbdbf29590c4ebc58605961904</icon>
+        <item_view/>
+        <name>Maintainence Task Form Screen</name>
+        <override_context_with_data_item>false</override_context_with_data_item>
+        <roles_override/>
+        <segments_height>medium</segments_height>
+        <segments_min_width>medium</segments_min_width>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-31 16:38:45</sys_created_on>
+        <sys_id>ff42c0cbdbf29590c4ebc58605961905</sys_id>
+        <sys_name>Maintainence Task Form Screen</sys_name>
+        <sys_package display_value="Fleet Vehicle Management" source="x_snc_flt_mgmt">89b467169738d150c6fc7e0e6253af10</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Vehicle Management">89b467169738d150c6fc7e0e6253af10</sys_scope>
+        <sys_update_name>sys_sg_form_screen_ff42c0cbdbf29590c4ebc58605961905</sys_update_name>
+        <table>x_snc_flt_mgmt_maint_task</table>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Maintainence Task Detail Screen View Config">e34280cbdbf29590c4ebc586059619be</view_config>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=ff42c0cbdbf29590c4ebc58605961905"/>
+</record_update>

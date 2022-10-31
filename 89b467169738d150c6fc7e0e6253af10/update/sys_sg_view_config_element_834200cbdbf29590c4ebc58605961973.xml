@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>priority-FieldLabel</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-31 16:38:42</sys_created_on>
+        <sys_id>834200cbdbf29590c4ebc58605961973</sys_id>
+        <sys_name>priority-FieldLabel</sys_name>
+        <sys_package display_value="Fleet Vehicle Management" source="x_snc_flt_mgmt">89b467169738d150c6fc7e0e6253af10</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Vehicle Management">89b467169738d150c6fc7e0e6253af10</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_834200cbdbf29590c4ebc58605961973</sys_update_name>
+        <view_config display_value="Maintain Request List Screen View Config">4b4200cbdbf29590c4ebc58605961934</view_config>
+        <view_template_slot display_value="text_04">5b4449fc41e35010f877183fc9b8be74</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>
